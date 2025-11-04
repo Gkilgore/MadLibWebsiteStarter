@@ -20,9 +20,6 @@
    - Name variables clearly so you remember what each one is for.
 */
 
-// let ________ = prompt("Ask the user for ________");
-// let ________ = prompt("Ask the user for ________");
-// (Add as many as your story needs)
 
 /* 2) BUILD YOUR STORY STRING
    - Use a template literal: it starts and ends with backticks (the ` key).
@@ -30,7 +27,6 @@
    - Keep it fun! Make sure your story uses ALL the variables you collected.
 */
 
-// let story = `Write your story here using ${_____} and ${_____} etc.`;
 
 /* 3) DISPLAY THE STORY ON THE PAGE
    - Select the element with id "madlib-output" using document.getElementById(...)
@@ -38,7 +34,7 @@
    - Optional: include simple <strong> or <em> tags inside your story string for emphasis.
 */
 
-// document.getElementById("madlib-output").innerHTML = /* your story variable */ ;
+
 
 /* 4) OPTIONAL POLISH
    - Add a title or intro line at the top of your story (still using the same innerHTML).
